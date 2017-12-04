@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "react",
+    "react-native",
+    "flowtype"
+  ],
+  "extends": [
+    "plugin:flowtype/recommended",
+    "plugin:react-native/all"
+  ],
+  "rules": {
+    "valid-jsdoc": "off"
+  }
+}
